@@ -1,4 +1,4 @@
-## Olá eu sou a Leandro Silva, programador fullstack!
+## Olá eu sou a Leandro Silva e sou programador fullstack!
 <div>
   <!-- Adicionar o link a seguir para direcionar para o portfólio: <a href="">LINK PORTFÓLIO</a> -->
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react">
