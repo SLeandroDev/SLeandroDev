@@ -1,9 +1,7 @@
 ## Olá eu sou a Leandro Silva e sou programador fullstack!
-<div>
-  <!-- Adicionar o link a seguir para direcionar para o portfólio: <a href="">LINK PORTFÓLIO</a> -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SLeandroDev&show_icons=true&theme=react">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLeandroDev&layout=compact&theme=react)
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
