@@ -1,7 +1,7 @@
 ## Olá eu sou Leandro Silva e sou programador fullstack!
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react&card_width=32" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLeandroDev&theme=react&langs_count=8&hide_progress=true&card_width=32" />
