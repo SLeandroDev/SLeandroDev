@@ -1,11 +1,8 @@
 ## Olá eu sou Leandro Silva e sou programador fullstack!
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLeandroDev&theme=react&langs_count=5&hide_progress=false&layout=compact)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react&card_width=32" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SLeandroDev&theme=react&langs_count=8&hide_progress=true&card_width=32" />
-</a>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Leandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Leandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
