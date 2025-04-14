@@ -1,4 +1,4 @@
-## Olá eu sou Leandro Silva e sou programador fullstack!
+## Olá eu sou Leandro Silva e sou programador Back-end!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SLeandroDev&show_icons=true&theme=react)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SLeandroDev&theme=react&langs_count=5&hide_progress=false&layout=compact)
 
